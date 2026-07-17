@@ -4,7 +4,7 @@ export const projects = [
     image: "/assets/images/projects/Rose.png",
     description:
       "A responsive fan website dedicated to ROSÉ, showcasing her profile, music, achievements, and photo gallery with a modern and mobile-friendly design.",
-    link: "https://vercel.com/phyo-thet-khaings-projects/rose-website/3fBchsxNiVqXrGGy9QSD27ZAYiNM",
+    link: "https://rose-website-drab.vercel.app/",
   },
   {
     title: "Coo's Bakery",
