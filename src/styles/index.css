@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Padauk:wght@400;700&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+@import "tailwindcss";
+@import "flowbite/src/themes/default";
+@plugin "flowbite/plugin";
+@source "../node_modules/flowbite";
+/* input.css */
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-sans: "Montserrat", "Padauk" sans-serif;
+  --font-heading: "Poppins", sans-serif;
+}
