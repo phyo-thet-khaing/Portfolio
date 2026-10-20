@@ -43,7 +43,7 @@ const HomeSection = () => {
 
           {/* Secondary Outline Button (Fixed the group-hover bug) */}
           <Link
-            to="/projects"
+            to="/project"
             className="group inline-flex items-center gap-2 px-5 py-3 text-sm font-medium transition-all duration-300 border text-neutral-700 border-neutral-200 rounded-xl hover:bg-neutral-50 hover:scale-105 dark:text-neutral-300 dark:border-neutral-800 dark:hover:bg-neutral-900"
           >
             Read Projects
